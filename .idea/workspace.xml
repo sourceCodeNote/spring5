@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="644cb456-8948-4c86-b62e-4bbabda08b7f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/spring508/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__com_hazelcast_hazelcast_all_3_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__com_jamonapi_jamon_2_81.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_ejb_javax_ejb_api_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_enterprise_concurrent_javax_enterprise_concurrent_api_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_money_money_api_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__joda_time_joda_time_2_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__net_sourceforge_findbugs_annotations_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_3_0_0_alpha_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_11_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_reflect_1_2_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_2_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_2_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_2_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_2_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_2_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_common_1_2_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_instrument_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_yaml_snakeyaml_1_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/spring508.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/base.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring-aop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring-beans.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring-context.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring-context/target/classes/org/springframework/context/support/PropertySourcesPlaceholderConfigurer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/spring-context/target/classes/org/springframework/context/support/PropertySourcesPlaceholderConfigurer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring-context/target/classes/org/springframework/context/support/SimpleThreadScope$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/spring-context/target/classes/org/springframework/context/support/SimpleThreadScope$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring508common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring508common/spring508common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/springApp/springApp.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/spring508/spring-beans/target/" />
+    <ignored path="$PROJECT_DIR$/spring508/spring508common/target/" />
+    <ignored path="$PROJECT_DIR$/spring508/spring-aop/target/" />
+    <ignored path="$PROJECT_DIR$/spring508/spring-context/target/" />
+    <ignored path="$PROJECT_DIR$/spring508/base/target/" />
+    <ignored path="$PROJECT_DIR$/spring508/springApp/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1141921139">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitattributes" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="1" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="iml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring5/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-47">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring508" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/20180811.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\dev\maven\setting.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="20180811" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20180811" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20180811" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20180811" type="462c0819:PsiDirectoryNode" />
+              <item name="spring508" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20180811" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20180811" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20180811" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20180811" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.step.demo.spring5.Application" />
+      <module name="springApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25383994" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3291815" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3291815" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring508/spring-beans/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/20180811.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring5/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>20180811</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml:classmate:1.3.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

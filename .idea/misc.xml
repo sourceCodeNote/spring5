@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring508/spring508common/pom.xml" />
+        <option value="$PROJECT_DIR$/spring508/spring-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/spring508/spring-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring508/spring-context/pom.xml" />
+        <option value="$PROJECT_DIR$/spring508/base/pom.xml" />
+        <option value="$PROJECT_DIR$/spring508/springApp/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

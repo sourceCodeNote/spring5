@@ -2,58 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="644cb456-8948-4c86-b62e-4bbabda08b7f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/spring508/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__com_hazelcast_hazelcast_all_3_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__com_jamonapi_jamon_2_81.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_ejb_javax_ejb_api_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_enterprise_concurrent_javax_enterprise_concurrent_api_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_money_money_api_1_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__joda_time_joda_time_2_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__net_sourceforge_findbugs_annotations_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_3_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_11_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_reflect_1_2_60.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_2_60.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_2_60.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_2_60.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_2_60.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_2_60.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_common_1_2_60.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_instrument_5_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/libraries/Maven__org_yaml_snakeyaml_1_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/spring508.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/base.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/spring-aop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/spring-beans.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/spring-context.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/spring-context/target/classes/org/springframework/context/support/PropertySourcesPlaceholderConfigurer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/spring-context/target/classes/org/springframework/context/support/PropertySourcesPlaceholderConfigurer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/spring-context/target/classes/org/springframework/context/support/SimpleThreadScope$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/spring-context/target/classes/org/springframework/context/support/SimpleThreadScope$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/spring508common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/spring508common/spring508common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring508/springApp/springApp.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_49.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/AopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/SayImplAroundAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/SayImplBeforeAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/UserAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/UserDaoInf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/UserDaoInf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/config/aop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/config/aopAr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/config/aopBf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/config/app.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/getClass/Simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/getClass/SimpleAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/getClass/SringAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/getClass/TestGetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring5/plan.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/jdk/proxy/CGLIBProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/jdk/proxy/LoggerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/jdk/proxy/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/jdk/proxy/XxDaos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/work/spring/HowSpringWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/work/spring/doc/Spring Aop原理分析(一) - 建立AopProxy代理对象 - CSDN博客.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/work/spring/doc/Spring源码分析（二）-Spring IoC容器的初始化No.2 - CSDN博客.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/work/spring/doc/aop.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/base/base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/base/base.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring-aop/spring-aop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/spring-aop/spring-aop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring-beans/spring-beans.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/spring-beans/spring-beans.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring-context/spring-context.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/spring-context/spring-context.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring508common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/spring508common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/spring508common/spring508common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/spring508common/spring508common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/springApp/springApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/springApp/springApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring5/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring5/AppConfig.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring508/spring-beans/target/" />
     <ignored path="$PROJECT_DIR$/spring508/spring508common/target/" />
@@ -104,14 +90,64 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="180519812">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="9" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="16" />
+          <entry key="properties" value="196" />
+          <entry key="xml" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="16" />
+          <entry key="Properties" value="196" />
+          <entry key="XML" value="16" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring5/Application.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/AopTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-47">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="115">
+              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/jdk/proxy/ProxyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -119,12 +155,18 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring508" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/20180811.iml" />
+        <option value="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring5/plan.properties" />
+        <option value="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring5/AppConfig.java" />
+        <option value="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/AopTest.java" />
+        <option value="$PROJECT_DIR$/spring508/spring508common/pom.xml" />
+        <option value="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/getClass/TestGetClass.java" />
+        <option value="$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/jdk/proxy/ProxyTest.java" />
       </list>
     </option>
   </component>
@@ -133,6 +175,11 @@
       <MavenGeneralSettings>
         <option name="userSettingsFile" value="D:\dev\maven\setting.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -153,24 +200,75 @@
         <subPane>
           <expand>
             <path>
-              <item name="20180811" type="b2602c69:ProjectViewProjectNode" />
-              <item name="20180811" type="462c0819:PsiDirectoryNode" />
+              <item name="spring5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="20180811" type="b2602c69:ProjectViewProjectNode" />
-              <item name="20180811" type="462c0819:PsiDirectoryNode" />
+              <item name="spring5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring5" type="462c0819:PsiDirectoryNode" />
               <item name="spring508" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="20180811" type="b2602c69:ProjectViewProjectNode" />
-              <item name="20180811" type="462c0819:PsiDirectoryNode" />
+              <item name="spring5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring5" type="462c0819:PsiDirectoryNode" />
+              <item name="spring508" type="462c0819:PsiDirectoryNode" />
+              <item name="springApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring5" type="462c0819:PsiDirectoryNode" />
+              <item name="spring508" type="462c0819:PsiDirectoryNode" />
+              <item name="springApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="20180811" type="b2602c69:ProjectViewProjectNode" />
-              <item name="20180811" type="462c0819:PsiDirectoryNode" />
+              <item name="spring5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring5" type="462c0819:PsiDirectoryNode" />
+              <item name="spring508" type="462c0819:PsiDirectoryNode" />
+              <item name="springApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring5" type="462c0819:PsiDirectoryNode" />
+              <item name="spring508" type="462c0819:PsiDirectoryNode" />
+              <item name="springApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring5" type="462c0819:PsiDirectoryNode" />
+              <item name="spring508" type="462c0819:PsiDirectoryNode" />
+              <item name="springApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="step" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring5" type="462c0819:PsiDirectoryNode" />
+              <item name="spring508" type="462c0819:PsiDirectoryNode" />
+              <item name="springApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="step" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring5" type="462c0819:PsiDirectoryNode" />
+              <item name="spring508" type="462c0819:PsiDirectoryNode" />
+              <item name="springApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="step" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,10 +278,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\dev\java\spring5\2018081004\spring5\spring508\springApp\src\main\java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ProxyTest.TestJdkProxy">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.step.demo.spring5.Application" />
       <module name="springApp" />
@@ -205,23 +309,82 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AopTest.testIoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springApp" />
+      <option name="PACKAGE_NAME" value="com.step.demo.spring" />
+      <option name="MAIN_CLASS_NAME" value="com.step.demo.spring.AopTest" />
+      <option name="METHOD_NAME" value="testIoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HowSpringWork.springInit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springApp" />
+      <option name="PACKAGE_NAME" value="com.step.work.spring" />
+      <option name="MAIN_CLASS_NAME" value="com.step.work.spring.HowSpringWork" />
+      <option name="METHOD_NAME" value="springInit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest.TestJdkProxy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springApp" />
+      <option name="PACKAGE_NAME" value="com.step.jdk.proxy" />
+      <option name="MAIN_CLASS_NAME" value="com.step.jdk.proxy.ProxyTest" />
+      <option name="METHOD_NAME" value="TestJdkProxy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest.cglibTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springApp" />
+      <option name="PACKAGE_NAME" value="com.step.jdk.proxy" />
+      <option name="MAIN_CLASS_NAME" value="com.step.jdk.proxy.ProxyTest" />
+      <option name="METHOD_NAME" value="cglibTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="JUnit.AopTest.testIoc" />
+      <item itemvalue="JUnit.HowSpringWork.springInit" />
+      <item itemvalue="JUnit.ProxyTest.cglibTest" />
+      <item itemvalue="JUnit.ProxyTest.TestJdkProxy" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ProxyTest.TestJdkProxy" />
+        <item itemvalue="JUnit.ProxyTest.cglibTest" />
+        <item itemvalue="JUnit.AopTest.testIoc" />
+        <item itemvalue="JUnit.HowSpringWork.springInit" />
         <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
+  <component name="TestHistory">
+    <history-entry file="AopTest_testIoc - 2018.08.10 at 23h 59m 44s.xml">
+      <configuration name="AopTest.testIoc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProxyTest_cglibTest - 2018.08.11 at 00h 03m 28s.xml">
+      <configuration name="ProxyTest.cglibTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25383994" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26596606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3291815" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291815" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.11743772" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -230,6 +393,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -241,6 +405,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/spring508" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/spring508/spring-beans/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -249,9 +418,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring508/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/.gitattributes" />
     <entry file="file://$PROJECT_DIR$/.idea/20180811.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -279,10 +446,100 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/springApp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring5/plan.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring5/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring5/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="73">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/spring508common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/getClass/TestGetClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/work/spring/HowSpringWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/config/aop.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="7" column="69" lean-forward="true" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/config/aopAr.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/demo/spring/AopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/jdk/proxy/XxDaos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding>
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring508/springApp/src/main/java/com/step/jdk/proxy/ProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -364,6 +621,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Maven: com.fasterxml:classmate:1.3.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

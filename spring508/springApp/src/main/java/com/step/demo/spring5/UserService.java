@@ -1,12 +1,12 @@
 package com.step.demo.spring5;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
 /**
  * 用户测试业务类
  */
-@Component
 /** 注册为spring的组件bean **/
+@Repository(value = "userService")
 public class UserService {
     /**
      * 测试方法

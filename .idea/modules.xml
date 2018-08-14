@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring508/spring-aop/spring-aop.iml" filepath="$PROJECT_DIR$/spring508/spring-aop/spring-aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring508/spring-beans/spring-beans.iml" filepath="$PROJECT_DIR$/spring508/spring-beans/spring-beans.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring508/spring-context/spring-context.iml" filepath="$PROJECT_DIR$/spring508/spring-context/spring-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring508/spring-web/spring-web.iml" filepath="$PROJECT_DIR$/spring508/spring-web/spring-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring508/spring508common/spring508common.iml" filepath="$PROJECT_DIR$/spring508/spring508common/spring508common.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring508/springApp/springApp.iml" filepath="$PROJECT_DIR$/spring508/springApp/springApp.iml" />
     </modules>

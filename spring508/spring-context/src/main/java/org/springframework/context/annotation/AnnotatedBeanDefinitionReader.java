@@ -44,15 +44,20 @@ import org.springframework.util.Assert;
  * @author Phillip Webb
  * @since 3.0
  * @see AnnotationConfigApplicationContext#register
+ * 注解bean定义读取
  */
 public class AnnotatedBeanDefinitionReader {
 
+    //bean定义注册 :bean定义注册,获取,判断是否存在
 	private final BeanDefinitionRegistry registry;
 
+	//BeanName创建者
 	private BeanNameGenerator beanNameGenerator = new AnnotationBeanNameGenerator();
 
+	//范围元数据解决者
 	private ScopeMetadataResolver scopeMetadataResolver = new AnnotationScopeMetadataResolver();
 
+	//条件鉴别
 	private ConditionEvaluator conditionEvaluator;
 
 

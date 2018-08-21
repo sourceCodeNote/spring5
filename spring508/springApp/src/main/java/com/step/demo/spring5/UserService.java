@@ -15,7 +15,23 @@ public class UserService {
      *            参数:输入名称
      * @return 返回结果
      */
+
+    private String name;
+
     public String sayHello(String name) {
+        this.name = name;
         return "Hello," + name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String sayHI(String name){
+        return "HI," + name;
     }
 }

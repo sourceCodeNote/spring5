@@ -1,19 +1,3 @@
-/*
- * Copyright 2002-2018 the original author or authors.
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
-
 package org.springframework.beans.factory.groovy;
 
 import java.io.IOException;
@@ -65,7 +49,7 @@ import org.springframework.util.StringUtils;
  *
  * <p>Typically applied to a
  * {@link org.springframework.beans.factory.support.DefaultListableBeanFactory}
- * or a {@link org.springframework.context.support.GenericApplicationContext},
+ * or a {org.springframework.context.support.GenericApplicationContext},
  * but can be used against any {@link BeanDefinitionRegistry} implementation.
  *
  * <h3>Example Syntax</h3>
@@ -126,8 +110,8 @@ import org.springframework.util.StringUtils;
  * @since 4.0
  * @see BeanDefinitionRegistry
  * @see org.springframework.beans.factory.support.DefaultListableBeanFactory
- * @see org.springframework.context.support.GenericApplicationContext
- * @see org.springframework.context.support.GenericGroovyApplicationContext
+ *  org.springframework.context.support.GenericApplicationContext
+ *  org.springframework.context.support.GenericGroovyApplicationContext
  */
 public class GroovyBeanDefinitionReader extends AbstractBeanDefinitionReader implements GroovyObject {
 
@@ -135,13 +119,13 @@ public class GroovyBeanDefinitionReader extends AbstractBeanDefinitionReader imp
 	 * Standard {@code XmlBeanDefinitionReader} created with default
 	 * settings for loading bean definitions from XML files.
 	 */
-	private final XmlBeanDefinitionReader standardXmlBeanDefinitionReader;
+	private XmlBeanDefinitionReader standardXmlBeanDefinitionReader=null;
 
 	/**
 	 * Groovy DSL {@code XmlBeanDefinitionReader} for loading bean definitions
 	 * via the Groovy DSL, typically configured with XML validation disabled.
 	 */
-	private final XmlBeanDefinitionReader groovyDslXmlBeanDefinitionReader;
+	private XmlBeanDefinitionReader groovyDslXmlBeanDefinitionReader=null;
 
 	private final Map<String, String> namespaces = new HashMap<>();
 
@@ -153,6 +137,9 @@ public class GroovyBeanDefinitionReader extends AbstractBeanDefinitionReader imp
 
 	private GroovyBeanDefinitionWrapper currentBeanDefinition;
 
+	public GroovyBeanDefinitionReader(String namespace,Map<String, String> namespaces,BeanDefinitionParserDelegate delegate,GroovyBeanDefinitionWrapper currentBeanDefinition,boolean decorating) {
+		super(null);
+	}
 
 	/**
 	 * Create a new {@code GroovyBeanDefinitionReader} for the given
@@ -387,8 +374,8 @@ public class GroovyBeanDefinitionReader extends AbstractBeanDefinitionReader imp
 			return new RuntimeBeanReference(refName, parentRef);
 		}
 		else if (this.namespaces.containsKey(name) && args.length > 0 && args[0] instanceof Closure) {
-			GroovyDynamicElementReader reader = createDynamicElementReader(name);
-			reader.invokeMethod("doCall", args);
+			//GroovyDynamicElementReader reader = createDynamicElementReader(name);
+			//reader.invokeMethod("doCall", args);
 		}
 		else if (args.length > 0 && args[0] instanceof Closure) {
 			// abstract bean definition
@@ -645,7 +632,7 @@ public class GroovyBeanDefinitionReader extends AbstractBeanDefinitionReader imp
 		}
 		else {
 			if (this.namespaces.containsKey(name)) {
-				return createDynamicElementReader(name);
+				//return createDynamicElementReader(name);
 			}
 			if (getRegistry().containsBeanDefinition(name)) {
 				GroovyBeanDefinitionWrapper beanDefinition = (GroovyBeanDefinitionWrapper)
@@ -680,7 +667,7 @@ public class GroovyBeanDefinitionReader extends AbstractBeanDefinitionReader imp
 		}
 	}
 
-	private GroovyDynamicElementReader createDynamicElementReader(String namespace) {
+	/*private GroovyDynamicElementReader createDynamicElementReader(String namespace) {
 		XmlReaderContext readerContext = this.groovyDslXmlBeanDefinitionReader.createReaderContext(new DescriptiveResource(
 			"Groovy"));
 		BeanDefinitionParserDelegate delegate = new BeanDefinitionParserDelegate(readerContext);
@@ -688,15 +675,16 @@ public class GroovyBeanDefinitionReader extends AbstractBeanDefinitionReader imp
 		if (!decorating) {
 			this.currentBeanDefinition = new GroovyBeanDefinitionWrapper(namespace);
 		}
-		return new GroovyDynamicElementReader(namespace, this.namespaces, delegate, this.currentBeanDefinition, decorating) {
-			@Override
-			protected void afterInvocation() {
+		return null;
+		*//*return new GroovyDynamicElementReader(namespace, this.namespaces, delegate, this.currentBeanDefinition, decorating) {
+			//@Override
+			*//**//*protected void afterInvocation() {
 				if (!this.decorating) {
 					currentBeanDefinition = null;
 				}
-			}
-		};
-	}
+			}*//**//*
+		};*//*
+	}*/
 
 
 	/**

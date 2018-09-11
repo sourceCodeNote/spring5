@@ -416,8 +416,7 @@ public class TilesConfigurer implements ServletContextAware, InitializingBean, D
 
 		public AttributeEvaluator createEvaluator() {
 			ELAttributeEvaluator evaluator = new ELAttributeEvaluator();
-			evaluator.setExpressionFactory(
-					JspFactory.getDefaultFactory().getJspApplicationContext(servletContext).getExpressionFactory());
+			//evaluator.setExpressionFactory(JspFactory.getDefaultFactory().getJspApplicationContext(servletContext).getExpressionFactory());
 			evaluator.setResolver(new CompositeELResolverImpl());
 			return evaluator;
 		}

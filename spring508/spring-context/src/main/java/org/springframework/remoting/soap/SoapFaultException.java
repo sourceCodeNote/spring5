@@ -17,6 +17,7 @@
 package org.springframework.remoting.soap;
 
 import javax.xml.namespace.QName;
+import javax.xml.soap.SOAPFault;
 
 import org.springframework.remoting.RemoteInvocationFailureException;
 
@@ -26,7 +27,7 @@ import org.springframework.remoting.RemoteInvocationFailureException;
  *
  * @author Juergen Hoeller
  * @since 2.5
- * @see javax.xml.rpc.soap.SOAPFaultException
+ * javax.xml.rpc.soap.SOAPFaultException
  * @see javax.xml.ws.soap.SOAPFaultException
  */
 @SuppressWarnings("serial")
@@ -61,5 +62,7 @@ public abstract class SoapFaultException extends RemoteInvocationFailureExceptio
 	 * Return the actor that caused this fault.
 	 */
 	public abstract String getFaultActor();
+
+	//public SOAPFault getCause();
 
 }

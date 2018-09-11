@@ -10,7 +10,9 @@
         <module name="spring-aop" />
         <module name="spring-beans" />
         <module name="spring-context" />
+        <module name="spring-mvc" />
         <module name="spring-web" />
+        <module name="spring-webmvc" />
         <module name="spring508common" />
         <module name="springApp" />
       </profile>
@@ -20,7 +22,9 @@
       <module name="spring-aop" target="1.8" />
       <module name="spring-beans" target="1.8" />
       <module name="spring-context" target="1.8" />
+      <module name="spring-mvc" target="1.8" />
       <module name="spring-web" target="1.8" />
+      <module name="spring-webmvc" target="1.8" />
       <module name="spring508common" target="1.8" />
       <module name="springApp" target="1.8" />
     </bytecodeTargetLevel>

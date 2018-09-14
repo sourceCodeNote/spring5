@@ -4,6 +4,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring508/spring-mvc" />
     <file type="web" url="file://$PROJECT_DIR$/spring508/spring-web" />
     <file type="web" url="file://$PROJECT_DIR$/spring508/spring-webmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvchello" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -17,6 +18,8 @@
         <option value="$PROJECT_DIR$/spring508/spring-web/pom.xml" />
         <option value="$PROJECT_DIR$/spring508/spring-mvc/pom.xml" />
         <option value="$PROJECT_DIR$/spring508/spring-webmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot/demo/20180821/tomcat8SourceCode/justPacke/tomcat8/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvchello/pom.xml" />
       </list>
     </option>
   </component>

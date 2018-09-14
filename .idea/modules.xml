@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring508/spring-webmvc/spring-webmvc.iml" filepath="$PROJECT_DIR$/spring508/spring-webmvc/spring-webmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring508/spring508common/spring508common.iml" filepath="$PROJECT_DIR$/spring508/spring508common/spring508common.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring508/springApp/springApp.iml" filepath="$PROJECT_DIR$/spring508/springApp/springApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springmvchello/springmvchello.iml" filepath="$PROJECT_DIR$/../springmvchello/springmvchello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../springboot/demo/20180821/tomcat8SourceCode/justPacke/tomcat8/tomcat8.iml" filepath="$PROJECT_DIR$/../../../springboot/demo/20180821/tomcat8SourceCode/justPacke/tomcat8/tomcat8.iml" />
     </modules>
   </component>
 </project>
